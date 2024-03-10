@@ -1,5 +1,5 @@
 ```
-wget -O 1.iso https://download.manjaro.org/kde/23.1.3/manjaro-kde-23.1.3-240113-linux66.iso
+wget -O 1.iso https://download.manjaro.org/xfce/23.1.3/manjaro-xfce-23.1.3-240113-linux66.iso
 ```
 ```
 wget -O ngrok.tgz https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz
